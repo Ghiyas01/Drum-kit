@@ -1,2 +1,2 @@
 # Drum-kit
-Using DOM Model
+Using DOM Model.
